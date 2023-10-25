@@ -5,4 +5,4 @@ def text_1():
 
 
 def text_2():
-    return f'Some random number {random.randint(0, 9999)}
+    return f'Some random number {random.randint(0, 9999)}'
