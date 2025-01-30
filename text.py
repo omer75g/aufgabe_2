@@ -11,3 +11,6 @@ def text_1():
 
     return awesome_text[random_text]
 
+
+def text_2():
+    return f'Some random number {randint(0, 9999)}'
